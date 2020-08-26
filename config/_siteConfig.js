@@ -34,12 +34,13 @@ export default {
       name: 'Github',
       link: 'https://github.com/dvenvign',
       target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
+    // },
+    // {
+    //   name: 'Awake+ Premium',
+    //   link: 'https://awake-premium-lp.netlify.com/',
+    //   target: '_blank'
+    // }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
