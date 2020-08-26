@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Envign',
   tagline: 'Envision...Design...Build',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/surfer_wide.png',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
@@ -31,8 +31,8 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'Github',
+      link: 'https://github.com/dvenvign',
       target: '_blank'
     },
     {
