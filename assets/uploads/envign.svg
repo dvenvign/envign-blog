@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="envign.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg1051"
+   version="1.1"
+   viewBox="0 0 500 200"
+   height="200mm"
+   width="500mm">
+  <defs
+     id="defs1045">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient1781">
+      <stop
+         id="stop1779"
+         offset="0"
+         style="stop-color:#5c5c5c;stop-opacity:1;" />
+    </linearGradient>
+    <rect
+       id="rect1759"
+       height="77.299556"
+       width="144.93667"
+       y="65.489902"
+       x="208.81616" />
+    <rect
+       id="rect1749"
+       height="71.394729"
+       width="190.56488"
+       y="63.879494"
+       x="212.03698" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="111.53772"
+       x2="429.30762"
+       y1="111.53772"
+       x1="210.90397"
+       id="linearGradient1783"
+       xlink:href="#linearGradient1781"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="880"
+     inkscape:window-width="1600"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     inkscape:cy="313.94547"
+     inkscape:cx="1106.5026"
+     inkscape:zoom="0.67719935"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1048">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       style="display:inline;opacity:1"
+       id="g939-7"
+       transform="matrix(0.26313616,0.02763515,-0.02763515,0.26313616,-49.136019,-74.757275)"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path885-8"
+         d="m 744.51223,713.47046 c -0.22424,-3.16121 -0.21511,-4.17115 -0.55314,-7.3761 7.97411,-12.6064 6.17321,-10.38429 16.10922,-26.10372 2.50663,11.28064 4.15446,33.22218 5.08666,38.73982 z"
+         style="fill:#ff7f2a;fill-opacity:1;stroke:#000000;stroke-width:0.991816px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path881-9"
+         d="m 814.68837,361.44483 c -62.30812,49.83301 -67.83401,254.53755 -48.73311,362.417 5.54339,3.41535 7.42227,3.73306 14.02867,5.43306"
+         style="fill:#1a1aff;fill-opacity:1;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         inkscape:connector-curvature="0"
+         id="path879-3"
+         d="m 779.98393,729.29489 c -38.38542,-168.85928 39.37422,-599.6912 84.93366,-213.72042 l -8.65483,210.78562 c 0,0 -24.95674,3.73267 -37.53916,4.2286 -12.9104,0.50885 -38.73967,-1.2938 -38.73967,-1.2938 z"
+         style="fill:#ff7f2a;fill-opacity:1;stroke:#000000;stroke-width:0.991816px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 145.7567,88.895706 c -9.37054,-4.889487 -14.22589,7.80533 -4.40223,12.308294"
+       id="path4668-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#ebc9be;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 179.59528,128.75881 c 7.53623,2.20565 3.65834,-2.26986 0.0839,-3.01902"
+       id="path930-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#a6dde1;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.5923,83.999343 c 2.33111,-5.608659 5.54489,-4.213138 4.6148,0.811797"
+       id="path900-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       sodipodi:nodetypes="cscscsc"
+       inkscape:connector-curvature="0"
+       id="path953-2"
+       d="m 154.42254,134.74567 c -0.0333,0.0491 -0.42927,5.46844 -1.9762,5.58038 -0.88867,0.0643 -1.36049,-0.87809 -1.36049,-0.87809 0,0 0.58788,-2.69543 0.21322,-1.98995 -0.32694,0.61562 -0.21322,1.98995 -0.21322,1.98995 0,0 -1.19487,0.23831 -1.75661,-0.41136 -1.11934,-1.29454 2.06212,-5.57755 2.06212,-5.57755"
+       style="display:inline;opacity:1;fill:#ebc9be;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#ebc9be;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.19523,106.46175 c 0,0 -0.82237,0.2902 -1.12668,-1.54177 -0.30431,-1.83198 -1.74932,-0.74125 -1.74932,-0.74125 0,0 0.4408,2.9835 0.1779,1.69003 -0.1402,-0.68974 -0.1779,-1.69003 -0.1779,-1.69003 0,0 -1.26329,-0.38448 -1.30458,0.91914 -0.11631,3.67191 3.94338,5.33692 3.94338,5.33692"
+       id="path957-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcscsc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#a6dde1;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 164.2071,84.81114 c 25.59301,7.960974 14.14505,16.4054 17.14496,34.19091 2.72721,16.16878 -8.43356,20.16663 -18.62469,19.48192 -19.78982,-1.32961 -21.17019,-10.67161 -21.67681,-18.7917 -1.47082,-23.574098 1.44227,-40.374991 23.15654,-34.88113 z"
+       id="path898-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.98484,91.186669 c -3.66485,-0.794461 -9.27793,1.364084 -10.06225,5.031124 -0.8012,3.745942 3.49398,8.293087 7.27717,8.894317 3.61808,0.57498 8.66868,-2.31307 9.25367,-5.929547 0.54743,-3.384275 -3.11814,-7.269589 -6.46859,-7.995894 z"
+       id="path4674-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.17964,92.388084 c -1.1189,-0.07353 -2.7002,0.768567 -2.78509,1.88667 -0.0834,1.098796 1.32609,2.174589 2.42573,2.246037 1.13599,0.07381 2.72282,-0.83983 2.78508,-1.976512 0.0592,-1.080214 -1.34621,-2.08526 -2.42572,-2.156195 z"
+       id="path4676-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.50179,93.776109 c -0.41427,0.110588 -0.2548,0.787321 -0.0789,1.178373 0.16226,0.360791 0.49627,0.854556 0.8426,0.663379 0.2756,-0.152133 0.15068,-0.64683 0.0449,-0.943335 -0.13536,-0.379481 -0.41931,-1.002329 -0.80858,-0.898417 z"
+       id="path4684-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.3708,99.714076 c 0,0 -0.76562,3.625284 0.15881,4.033994 0.54379,0.24043 1.74868,0.59971 2.68405,0.28588 0.68194,-0.22881 0.22234,-3.54166 0.22234,-3.54166"
+       id="path4696-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#ebc9be;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.51317,95.394203 c 0,0 -1.08806,1.66447 -1.01644,2.588747 0.17876,2.30691 2.64568,1.559211 3.79577,1.985235 1.98529,0.735405 3.57278,2.399255 4.52634,0.492345 1.06168,-2.123136 -2.41404,-4.034005 -2.41404,-4.034005"
+       id="path4690-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#5c5c5c;fill-opacity:1;stroke:#5c5c5c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.83685,93.881914 c 1.8806,-0.151128 3.72936,0.825735 3.64131,2.162116 -0.0604,0.916663 -1.73639,0.59353 -2.65305,0.533131 -0.86865,-0.05723 -2.12637,-0.322996 -2.33588,-1.16794 -0.16204,-0.653494 0.11333,-1.428118 1.34762,-1.527307 z"
+       id="path4678-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 138.13604,89.559379 c 0.44318,0.540964 0.51189,1.572956 0.0493,2.097394 -0.34113,0.38671 -1.07424,0.380257 -1.53903,0.156901 -1.08374,-0.520809 -1.73707,-1.580981 -1.16214,-2.45464 0.47566,-0.722802 1.90568,-0.710515 2.65189,0.200345 z"
+       id="path4698-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.240791px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.90582,90.455226 c -0.2212,-0.113014 -0.30809,0.04792 -0.39837,0.333042 -0.0741,0.234029 -0.23138,0.588137 -0.0326,0.633484 0.18161,0.04143 0.3493,-0.27976 0.43466,-0.487146 0.10002,-0.243012 0.19067,-0.380082 -0.004,-0.47938 z"
+       id="path4700-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#a6dde1;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 174.50599,90.602697 c 4.82585,-11.372122 12.17607,-2.249718 3.86319,6.37875"
+       id="path902-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#5c5c5c;fill-opacity:1;stroke:#5c5c5c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.02976,84.223947 c 1.54937,-2.49996 1.29109,0.203925 1.66207,0.247063"
+       id="path932-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#5c5c5c;stroke-width:0.365001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 177.49874,94.878726 c 4.28973,-5.113689 2.57953,-10.632138 0,-7.044375"
+       id="path937-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#5c5c5c;stroke-width:0.665001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 179.18528,91.567429 c -1.00245,-4.747663 -1.88315,0.122443 -2.18971,0.04069"
+       id="path947-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="display:inline;opacity:1;fill:#ebc9be;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 175.64569,133.72239 c 0.014,0.0577 3.84417,3.57731 2.81108,5.20998 -0.47496,0.75062 -1.64104,0.66072 -1.64104,0.66072 0,0 -0.95562,-0.77382 -1.43332,-2.62329 -0.11881,-0.45999 1.43332,2.62329 1.43332,2.62329 0,0 -0.55509,1.02718 -1.40675,0.78496 -1.64608,-0.46816 -2.75132,-5.27178 -2.75132,-5.27178"
+       id="path951-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscsc"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       sodipodi:nodetypes="cscscsc"
+       inkscape:connector-curvature="0"
+       id="path955-8"
+       d="m 166.0585,114.43104 c 0.0231,0.0374 3.82545,1.79979 3.32501,3.10691 -0.23008,0.60095 -1.18806,0.74207 -1.18806,0.74207 0,0 -0.92748,-0.3677 -1.68861,-1.56125 -0.18931,-0.29685 1.68861,1.56125 1.68861,1.56125 0,0 -0.2384,0.80583 -0.97399,0.78701 -1.42172,-0.0364 -3.28941,-3.15999 -3.28941,-3.15999"
+       style="display:inline;opacity:1;fill:#ebc9be;fill-opacity:1;stroke:#000000;stroke-width:0.203534px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/dennis.verweij/Pictures/veedub_white_text.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+  </g>
+  <g
+     inkscape:label="text"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333325000000080px;shape-inside:url(#rect1749);white-space:pre;"
+       id="text1747"
+       xml:space="preserve" />
+    <text
+       id="text1755"
+       y="104.13968"
+       x="286.65253"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="104.13968"
+         x="286.65253"
+         id="tspan1753"
+         sodipodi:role="line"></tspan></text>
+    <text
+       style="fill:#000000;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:25.39999999999999858px;shape-inside:url(#rect1759);white-space:pre;-inkscape-font-specification:'sans-serif Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       id="text1757"
+       xml:space="preserve" />
+    <text
+       transform="scale(0.93225646,1.0726662)"
+       id="text1767"
+       y="130.37332"
+       x="204.97038"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.23579999999998336px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a6dde1;fill-opacity:1;stroke:#000000;stroke-width:0.26458333;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.23579999999998336px;font-family:Futura;-inkscape-font-specification:'Futura Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a6dde1;fill-opacity:1;stroke:#000000;stroke-width:0.26458333;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         y="130.37332"
+         x="204.97038"
+         id="tspan1765"
+         sodipodi:role="line">Envign</tspan></text>
+    <text
+       id="text1771"
+       y="35.428963"
+       x="324.7655"
+       style="font-size:50.79999999999999716px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Normal';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       xml:space="preserve"><tspan
+         id="tspan1773"
+         sodipodi:role="line"></tspan></text>
+  </g>
+</svg>

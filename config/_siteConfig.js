@@ -12,7 +12,7 @@ export default {
   siteName: 'Envign',
   tagline: 'Envision...Design...Build',
   featureImage: '/uploads/surfer_wide1.png',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/uploads/envign.svg', //'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
